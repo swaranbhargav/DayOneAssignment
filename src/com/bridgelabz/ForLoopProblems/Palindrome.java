@@ -1,6 +1,6 @@
-package com.bridgelabz.ArrayHandlingProblems;
+package com.bridgelabz.ForLoopProblems;
 
-public class OddElementsOfArray {
+public class Palindrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
